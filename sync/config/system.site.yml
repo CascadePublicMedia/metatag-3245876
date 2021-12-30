@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 35360c69-733c-4a59-bd8c-3ea708db02c5
+name: metatag-3245876
+mail: metatag-3245876@test.test
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /search
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en

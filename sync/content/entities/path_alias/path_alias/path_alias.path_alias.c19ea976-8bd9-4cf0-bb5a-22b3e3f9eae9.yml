@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c19ea976-8bd9-4cf0-bb5a-22b3e3f9eae9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/64
+alias:
+  -
+    value: /node-64-article
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

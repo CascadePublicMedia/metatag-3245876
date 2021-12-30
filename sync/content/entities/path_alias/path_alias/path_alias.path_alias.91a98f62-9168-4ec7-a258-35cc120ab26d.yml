@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 91a98f62-9168-4ec7-a258-35cc120ab26d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/78
+alias:
+  -
+    value: /node-78-page
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7d70f63f-ef08-43fc-9f1d-5bd232abba98
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /taxonomy/term/3
+alias:
+  -
+    value: /appellatio-enim-facilisi-validus.
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

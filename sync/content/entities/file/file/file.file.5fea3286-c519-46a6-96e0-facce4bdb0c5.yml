@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 5fea3286-c519-46a6-96e0-facce4bdb0c5
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 66f39545-ca75-4942-8973-a88a6be12259
+filename:
+  -
+    value: generateImage_IzXrmG.png
+uri:
+  -
+    value: 'public://2021-12/generateImage_IzXrmG.png'
+    url: /sites/default/files/2021-12/generateImage_IzXrmG.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1419
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.66f39545-ca75-4942-8973-a88a6be12259

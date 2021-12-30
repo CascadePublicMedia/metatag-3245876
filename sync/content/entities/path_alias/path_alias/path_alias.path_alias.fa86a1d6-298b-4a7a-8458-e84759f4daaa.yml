@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fa86a1d6-298b-4a7a-8458-e84759f4daaa
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/88
+alias:
+  -
+    value: /node-88-article
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

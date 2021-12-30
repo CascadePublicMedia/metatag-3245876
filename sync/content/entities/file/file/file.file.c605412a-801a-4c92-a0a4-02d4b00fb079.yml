@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: c605412a-801a-4c92-a0a4-02d4b00fb079
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 66f39545-ca75-4942-8973-a88a6be12259
+filename:
+  -
+    value: generateImage_vQl0MD.jpeg
+uri:
+  -
+    value: 'public://2021-12/generateImage_vQl0MD.jpeg'
+    url: /sites/default/files/2021-12/generateImage_vQl0MD.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 4251
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-12-30T14:26:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:26:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.66f39545-ca75-4942-8973-a88a6be12259

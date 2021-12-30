@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 38b12b23-6a8f-408e-b1d7-870922cac532
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/91
+alias:
+  -
+    value: /node-91-page
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

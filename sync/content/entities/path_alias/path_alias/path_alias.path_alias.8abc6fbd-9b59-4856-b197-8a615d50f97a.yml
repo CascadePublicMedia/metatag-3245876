@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8abc6fbd-9b59-4856-b197-8a615d50f97a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/13
+alias:
+  -
+    value: /node-13-page
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

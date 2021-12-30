@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6a4a55f0-55ca-4792-8e13-7ba2b85bbdd7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/57
+alias:
+  -
+    value: /node-57-page
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

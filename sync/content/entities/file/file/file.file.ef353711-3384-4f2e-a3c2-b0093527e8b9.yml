@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: ef353711-3384-4f2e-a3c2-b0093527e8b9
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 66f39545-ca75-4942-8973-a88a6be12259
+filename:
+  -
+    value: generateImage_wBflGC.gif
+uri:
+  -
+    value: 'public://2021-12/generateImage_wBflGC.gif'
+    url: /sites/default/files/2021-12/generateImage_wBflGC.gif
+filemime:
+  -
+    value: image/gif
+filesize:
+  -
+    value: 1897
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.66f39545-ca75-4942-8973-a88a6be12259

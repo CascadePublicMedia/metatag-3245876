@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: cadf073e-c9c7-4616-b8ca-9804db0964e0
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 66f39545-ca75-4942-8973-a88a6be12259
+filename:
+  -
+    value: generateImage_7JDqdF.jpg
+uri:
+  -
+    value: 'public://2021-12/generateImage_7JDqdF.jpg'
+    url: /sites/default/files/2021-12/generateImage_7JDqdF.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 4018
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.66f39545-ca75-4942-8973-a88a6be12259

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c7240727-8a0a-4405-b96f-b54fe1ae9088
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/94
+alias:
+  -
+    value: /node-94-page
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

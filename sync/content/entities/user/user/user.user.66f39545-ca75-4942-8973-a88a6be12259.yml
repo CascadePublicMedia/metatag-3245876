@@ -1,0 +1,40 @@
+uuid:
+  -
+    value: 66f39545-ca75-4942-8973-a88a6be12259
+langcode:
+  -
+    value: en
+name:
+  -
+    value: drupal9
+created:
+  -
+    value: '2021-12-30T14:21:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:22:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+metatag:
+  value:
+    canonical_url: 'http://default/user/1'
+    title: 'drupal9 | metatag-3245876'
+    description: metatag-3245876
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$EPWbupnxLE.Zyucz6cesf5A6nSLeFDEDgB9ZIzSmfPziOCo8FMDL
+    pre_hashed: true
+mail:
+  value: metatag-3245876@test.test
+status:
+  value: '1'
+roles:
+  - authenticated
+  - administrator

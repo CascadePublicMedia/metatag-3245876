@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 509567ba-c303-4d3d-8245-816009dc3817
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/26
+alias:
+  -
+    value: /node-26-article
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

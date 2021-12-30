@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2a73e3c8-a4ee-4ac6-9f38-e1696eead70d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/98
+alias:
+  -
+    value: /node-98-article
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

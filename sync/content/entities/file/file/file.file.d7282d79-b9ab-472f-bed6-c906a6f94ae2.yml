@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: d7282d79-b9ab-472f-bed6-c906a6f94ae2
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 66f39545-ca75-4942-8973-a88a6be12259
+filename:
+  -
+    value: generateImage_aoCAxC.jpg
+uri:
+  -
+    value: 'public://2021-12/generateImage_aoCAxC.jpg'
+    url: /sites/default/files/2021-12/generateImage_aoCAxC.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 6065
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-12-30T14:26:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:26:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.66f39545-ca75-4942-8973-a88a6be12259

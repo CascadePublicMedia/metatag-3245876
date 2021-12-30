@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 9c67208f-7fe3-4392-8bb6-ae35f9d606c8
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 66f39545-ca75-4942-8973-a88a6be12259
+filename:
+  -
+    value: generateImage_ExTSoC.gif
+uri:
+  -
+    value: 'public://2021-12/generateImage_ExTSoC.gif'
+    url: /sites/default/files/2021-12/generateImage_ExTSoC.gif
+filemime:
+  -
+    value: image/gif
+filesize:
+  -
+    value: 2588
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.66f39545-ca75-4942-8973-a88a6be12259

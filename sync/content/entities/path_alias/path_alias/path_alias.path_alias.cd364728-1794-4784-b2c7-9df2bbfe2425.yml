@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cd364728-1794-4784-b2c7-9df2bbfe2425
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/60
+alias:
+  -
+    value: /node-60-article
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

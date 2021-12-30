@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a15ba10f-a76a-4c45-89fb-70035824901a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/89
+alias:
+  -
+    value: /node-89-page
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

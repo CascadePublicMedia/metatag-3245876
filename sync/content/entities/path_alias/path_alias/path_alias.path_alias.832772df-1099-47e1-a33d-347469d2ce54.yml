@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 832772df-1099-47e1-a33d-347469d2ce54
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /taxonomy/term/4
+alias:
+  -
+    value: /antehabeo-et-facilisis-hos-importunus-jus-os.
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

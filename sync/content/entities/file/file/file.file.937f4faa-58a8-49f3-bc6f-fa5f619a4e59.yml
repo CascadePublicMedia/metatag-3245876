@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 937f4faa-58a8-49f3-bc6f-fa5f619a4e59
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 66f39545-ca75-4942-8973-a88a6be12259
+filename:
+  -
+    value: generateImage_bcwomF.gif
+uri:
+  -
+    value: 'public://2021-12/generateImage_bcwomF.gif'
+    url: /sites/default/files/2021-12/generateImage_bcwomF.gif
+filemime:
+  -
+    value: image/gif
+filesize:
+  -
+    value: 1685
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-12-30T14:26:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-12-30T14:26:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.66f39545-ca75-4942-8973-a88a6be12259
