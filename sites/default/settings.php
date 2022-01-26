@@ -780,6 +780,12 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 
+$settings['memcache']['servers'] = ['cache:11211' => 'default'];
+$settings['memcache']['bins'] = ['default' => 'default'];
+$settings['memcache']['key_prefix'] = '';
+$settings['cache']['default'] = 'cache.backend.memcache';
+$settings['cache']['bins']['render'] = 'cache.backend.memcache';
+
 $settings['config_sync_directory'] = $app_root . '/sync/config';
 
 global $content_directories;

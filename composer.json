@@ -23,6 +23,7 @@
         "drupal/core-recommended": "^9.3",
         "drupal/core-vendor-hardening": "^9.3",
         "drupal/devel": "^4.1",
+        "drupal/memcache": "^2.3",
         "drupal/metatag": "^1.18",
         "drupal/search_api": "^1.21",
         "drush/drush": "^10.6"
