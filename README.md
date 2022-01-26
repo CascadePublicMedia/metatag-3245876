@@ -3,7 +3,10 @@
 Confirms an infinite loop OOM issue caused by the combination of Metatags
 v1.18+ and Search API when using memcache for caching on the search view.
 
-See [Out of memory error with metatag_view submodule and Search API view](https://www.drupal.org/project/metatag/issues/3245876).
+## Related issues
+
+- [Out of memory error with metatag_view submodule and Search API view](https://www.drupal.org/project/metatag/issues/3245876)
+- [Out of memory error when used with views, metatag and memcache modules](https://www.drupal.org/project/search_api/issues/3258375)
 
 ## Install
 
