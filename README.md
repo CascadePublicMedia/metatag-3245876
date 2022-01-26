@@ -27,3 +27,7 @@ See [Out of memory error with metatag_view submodule and Search API view](https:
 1. Navigate to [http://metatag-3245876.lndo.site/](http://metatag-3245876.lndo.site/).
 2. Search for a term, e.g. "dolore" (works).
 3. Search for the same term again (OOM exception).
+
+## Notes
+
+Admin login and password is `drupal9`.
