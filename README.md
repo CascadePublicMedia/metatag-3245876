@@ -19,8 +19,6 @@ See [Out of memory error with metatag_view submodule and Search API view](https:
 3. `composer install`
 4. `lando start`
 5. `lando db-import metatag-3245876.sql.gz`
-6. `lando drush content-sync:import --yes`
-7. `lando drush cr`
 
 ## Test
 
