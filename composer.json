@@ -43,6 +43,11 @@
     },
     "extra": {
         "drupal-scaffold": {
+            "file-mapping": {
+                "[web-root]/README.md": {
+                    "mode": "skip"
+                }
+            },
             "locations": {
                 "web-root": "./"
             }
