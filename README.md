@@ -30,6 +30,11 @@ v1.18+ and Search API when using memcache for caching on the search view.
 3. Run `lando drush cr`.
 4. Search for the same term again: "dolore" (OOM exception).
 
+After following these steps the search term will causes OOM executions until
+memcache is flushed manually with:
+
+`lando drush ev "Drupal::service('memcache.factory')->get('default')->flush();"`
+
 ## Notes
 
 Admin login and password is `drupal9`.
