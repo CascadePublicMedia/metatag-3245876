@@ -1,3 +1,8 @@
+# Branch
+
+This branch applies the patch from comment #2 of [Out of memory error when used with views, metatag and memcache modules](https://www.drupal.org/project/search_api/issues/3258375)
+and appears to resolve the issue.
+
 # Purpose
 
 Confirms an infinite loop OOM issue caused by the combination of Metatags
